@@ -1,8 +1,8 @@
-Welcome to Service based app using Java and Spring!
+#Welcome to Service based app using Java and Spring!
 ============
 This app holds three separate project: A service, a implementation of the service, and the web app using the service as the dependency.
 
-Document Structure
+document structure
 -------------
 
 -- Simple-SOA-Example
