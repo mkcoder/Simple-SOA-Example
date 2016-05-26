@@ -6,13 +6,21 @@ document structure
 -------------
 
 -- Simple-SOA-Example
+
 -------- Simple-SOA-Example\ IRandom Service 
+
     ---------------- a java service (interface) that is exposed to the outside
+    
 -------- Simple-SOA-Example\RandomImpl
+
     ---------------- the implementation of the service
+    
 -------- Simple-SOA-Example\RandomService WebApp
+
     ---------------- a simple spring mvc web app that makes use of spring DI to inject 
+    
     ---------------- the implementation to the appropriate class in this case IRandom.
+    
 
 ## implementation walkthrough
 
