@@ -5,5 +5,5 @@
 	
 	<!-- Root Context: defines shared resources visible to all other web components -->
 	
-<bean id="randomServiceImpl" class="ServiceImpl.RandomServiceImpl"></bean>	
+<bean id="randomServiceImpl" class="ServiceImpl.AlwaysReturnZeroOrOneService"></bean>	
 </beans>

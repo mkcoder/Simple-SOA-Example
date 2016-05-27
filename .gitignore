@@ -51,3 +51,9 @@ Temporary Items
 .project
 .classpath
 .springBeans
+*.jar
+*.properties
+*.properties
+*.properties
+RandomService WebApp/target/m2e-wtp/web-resources/META-INF/maven/random.service/webapp/pom.properties
+RandomImpl/target/maven-archiver/pom.properties
